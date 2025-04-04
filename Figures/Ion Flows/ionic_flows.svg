@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="178mm"
+   height="68mm"
+   viewBox="0 0 178 68"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="ionic_flows.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1908509"
+     inkscape:cx="426.16586"
+     inkscape:cy="92.790793"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <sodipodi:guide
+       position="111.583,19.000457"
+       orientation="0,-1"
+       id="guide496"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch138"
+       inkscape:swatch="solid"
+       inkscape:label="Neutral">
+      <stop
+         style="stop-color:#efefef;stop-opacity:1;"
+         offset="0"
+         id="stop138" />
+    </linearGradient>
+    <linearGradient
+       id="swatch172"
+       inkscape:swatch="solid"
+       inkscape:label="Ionic_Green"
+       gradientTransform="translate(397.93527)">
+      <stop
+         style="stop-color:#005500;stop-opacity:1;"
+         offset="0"
+         id="stop172" />
+    </linearGradient>
+    <linearGradient
+       id="swatch944"
+       inkscape:swatch="solid"
+       inkscape:label="Positive_slight">
+      <stop
+         style="stop-color:#ffefdf;stop-opacity:1;"
+         offset="0"
+         id="stop944" />
+    </linearGradient>
+    <linearGradient
+       id="swatch139"
+       inkscape:swatch="solid"
+       inkscape:label="Negative">
+      <stop
+         style="stop-color:#bbddff;stop-opacity:1;"
+         offset="0"
+         id="stop139" />
+    </linearGradient>
+    <linearGradient
+       id="swatch140"
+       inkscape:swatch="solid"
+       inkscape:label="Positive">
+      <stop
+         style="stop-color:#ffd6c1;stop-opacity:1;"
+         offset="0"
+         id="stop140" />
+    </linearGradient>
+    <linearGradient
+       id="swatch728"
+       inkscape:swatch="solid"
+       inkscape:label="Actuator">
+      <stop
+         style="stop-color:#ecdaf5;stop-opacity:1;"
+         offset="0"
+         id="stop728" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1401"
+       inkscape:swatch="solid"
+       inkscape:label="Flow_Chlorine"
+       gradientTransform="matrix(-1,0,0,1,1246.0272,2429.2957)">
+      <stop
+         style="stop-color:#2e9deb;stop-opacity:1;"
+         offset="0"
+         id="stop1448" />
+    </linearGradient>
+    <marker
+       markerWidth="0.40000001"
+       markerHeight="0.7988454"
+       refX="0"
+       refY="1.8890001"
+       orient="auto"
+       id="marker1012"
+       viewBox="0 0 1.8920315 3.7786016"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 0,0 V 3.7786016 L 1.8920315,1.8892989 Z"
+         id="path1012"
+         sodipodi:nodetypes="cccc" />
+    </marker>
+    <marker
+       markerWidth="0.52499997"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapTriangle"
+       viewBox="0 0 0.525 1"
+       inkscape:stockid="Triangle cap"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 1,0 0,1 -0.05,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)"
+         id="path1428" />
+    </marker>
+    <linearGradient
+       id="swatch1402"
+       inkscape:swatch="solid"
+       inkscape:label="Flow_Sodium"
+       gradientTransform="translate(0,2391.9219)">
+      <stop
+         style="stop-color:#f67800;stop-opacity:1;"
+         offset="0"
+         id="stop1449" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 0.0,0.0 L 0.0,3.7786016 L 1.8920315,1.8892989 L 0.0,0.0"
+       id="path1"
+       sodipodi:nodetypes="cccc"
+       style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_bath_upper.port_a.j[2]" />
+    <path
+       d="M 0.0,-1.0 L 1.0,0.0 L 0.0,1.0 L -0.05,0.0 L 0.0,-1.0"
+       id="path2"
+       sodipodi:nodetypes="sssssscsss"
+       style="fill:context-stroke;stroke-linecap:butt;marker-mid:url(#marker1012);marker-end:url(#CapTriangle);stroke-width:2;stroke-dasharray:none"
+       transform="scale(0.5)" />
+    <path
+       d="M 0.0,-1.0 L 1.0,0.0 L 0.0,1.0 L -0.05,0.0 L 0.0,-1.0"
+       id="path3"
+       sodipodi:nodetypes="sssssscsss"
+       style="fill:context-stroke;stroke-linecap:butt;marker-mid:url(#marker1012);marker-end:url(#CapTriangle);stroke-width:2;stroke-dasharray:none"
+       transform="scale(0.5)" />
+    <path
+       d="m 173.523,29.845252 v -8.576798 -8.5767 -8.5767 h -7"
+       id="path1427"
+       style="font-variation-settings:normal;display:inline;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_bath_upper.port_a.j[2]" />
+    <path
+       d="M 170.523,29.845252 L 170.523,22.268553999999998 L 170.523,14.691854 L 170.523,7.115053999999999 L 166.523,7.115053999999999"
+       id="path1430"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#marker1012);marker-end:url(#CapTriangle);stop-color:#000000"
+       flow="source_bath_upper.port_a.j[1]" />
+    <path
+       d="M 114.513,4.115054 L 123.533,4.115054 L 132.553,4.115054 L 141.563,4.115054 L 150.583,4.115054 L 159.603,4.115054"
+       id="path1431"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_bath_upper.port_b.j[2]" />
+    <path
+       d="m 114.513,4.115054 v 7 h 7"
+       id="path1434"
+       style="font-variation-settings:normal;display:inline;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_upper_wire.port_a.j[2]" />
+    <path
+       d="M 90.833,6.985254 L 96.143,6.985254 L 96.143,4.115054000000001 L 105.333,4.115054000000001 L 114.513,4.115054000000001"
+       id="path1435"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_upper_wire.port_a.j[2]-oscillator_b_pullup.port_a.j[2]-oscillator_a_pullup.port_a.j[2]-oscillator_a_upper_wire.port_a.j[2]" />
+    <path
+       d="m 90.833,6.985254 v 6.9999"
+       id="path1436"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_upper_wire.port_a.j[2]" />
+    <path
+       d="M 68.883,6.985254 L 76.203,6.985254 L 83.523,6.985254 L 90.833,6.985254"
+       id="path1437"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_upper_wire.port_a.j[2]-oscillator_b_pullup.port_a.j[2]-oscillator_a_pullup.port_a.j[2]" />
+    <path
+       d="m 68.883,6.985254 v 6.9999"
+       id="path1438"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_pullup.port_a.j[2]" />
+    <path
+       d="M 63.883,6.985254 L 68.88300000000001,6.985254"
+       id="path1439"
+       sodipodi:nodetypes="cc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_upper_wire.port_a.j[2]-oscillator_b_pullup.port_a.j[2]" />
+    <path
+       d="m 63.883,6.985254 v 6.9999"
+       id="path1440"
+       sodipodi:nodetypes="cc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_pullup.port_a.j[2]" />
+    <path
+       d="m 63.883,6.985254 h -7.31 -7.32 -7.31 v 6.9999"
+       id="path1441"
+       sodipodi:nodetypes="ccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_upper_wire.port_a.j[2]" />
+    <path
+       d="M 173.523,54.098254 L 173.523,61.827453999999996 L 166.523,61.827453999999996"
+       id="path124"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_bath_lower.port_a.j[2]" />
+    <path
+       d="m 173.523,54.098254 v -8.666242 -8.6662"
+       id="path1442"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_anions.port_b.j[2]" />
+    <path
+       d="m 114.513,61.827454 h 9.02 9.02 9.01 9.02 9.02"
+       id="path1443"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_bath_lower.port_b.j[2]" />
+    <path
+       d="M 114.513,61.827454 L 114.513,52.732454000000004 L 121.513,52.732454000000004"
+       id="path1445"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_lower_wire.port_b.j[2]" />
+    <path
+       d="m 108.583,61.827454 h 5.93"
+       id="path1446"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_lower_wire.port_b.j[2]-oscillator_a_lower_wire.port_b.j[2]-actuator_enrich_base_pulldown.port_b.j[2]" />
+    <path
+       d="M 108.583,61.827454 L 108.583,54.827454"
+       id="path1447"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_base_pulldown.port_b.j[2]" />
+    <path
+       d="M 90.833,61.827454 L 90.833,54.827354"
+       id="path1704"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_lower_wire.port_b.j[2]" />
+    <path
+       d="M 90.833,61.827454 L 81.053,61.827454 L 71.273,61.827454 L 61.492999999999995,61.827454 L 51.723,61.827454 L 41.943,61.827454 L 41.943,54.827454"
+       id="path1705"
+       sodipodi:nodetypes="ccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_lower_wire.port_b.j[2]" />
+    <path
+       d="M 38.943,47.906752 L 38.943,41.874752"
+       id="path1706"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_npn.port_s.j[2]" />
+    <path
+       d="M 173.523,54.098254 L 167.753,54.098254 L 161.98299999999998,54.098254 L 161.98299999999998,50.098214"
+       id="path1707"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_cations_lower_prism.port_b.j[2]" />
+    <path
+       d="m 161.983,36.078832 v 7.09871"
+       id="path1708"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_cations_lower_prism.port_a.j[2]" />
+    <path
+       d="M 161.983,29.158252 L 161.983,22.158254"
+       id="path1709"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_cations_bath_upper.port_a.j[2]" />
+    <path
+       d="m 149.393,15.237554 v -7 h 6.3 6.29 v 7"
+       id="path1710"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_cations_bath_upper.port_b.j[2]" />
+    <path
+       d="M 149.393,22.158154 L 149.393,29.035852"
+       id="path1711"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_membrane_polyanion.port_a.j[2]" />
+    <path
+       d="m 149.393,42.956462 v -6.99995"
+       id="path1712"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_membrane_polyanion.port_b.j[2]" />
+    <path
+       d="M 149.393,49.877053 L 149.393,53.877053999999994 L 144.393,53.877053999999994 L 144.393,49.877072999999996"
+       id="path1713"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_bilayer.port_a.j[2]" />
+    <path
+       d="M 133.393,37.956392 L 138.893,37.956402000000004 L 144.393,37.956422 L 144.393,42.956412"
+       id="path127"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_bilayer.port_b.j[2]" />
+    <path
+       d="m 133.393,37.956392 v -2.00001"
+       id="path1714"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_bilayer_transistor_connector.port_b.j[2]" />
+    <path
+       d="M 133.393,29.035752 L 133.393,22.035754"
+       id="path1715"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_npn.port_s.j[2]" />
+    <path
+       d="m 128.433,11.115054 h 4.96 v 4"
+       id="path1716"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_npn.port_d.j[2]" />
+    <path
+       d="m 133.393,37.956392 v 5.00002"
+       id="path1717"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_npn.port_d.j[2]" />
+    <path
+       d="M 128.433,52.732454 L 133.393,52.732454 L 133.393,49.877072999999996"
+       id="path1718"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_npn.port_s.j[2]" />
+    <path
+       d="M 124.433,17.075454 L 131.433,17.075354"
+       id="path1719"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_npn.port_b.j[2]" />
+    <path
+       d="M 90.833,25.866254 L 95.713,23.470854000000003 L 100.583,21.075454000000004 L 110.513,21.075454000000004 L 110.513,17.075454000000004 L 117.513,17.075454000000004"
+       id="path1720"
+       sodipodi:nodetypes="ccccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_base_wire.port_b.j[2]" />
+    <path
+       d="m 113.513,44.906762 h -4.93 v 4.092781"
+       id="path1721"
+       sodipodi:nodetypes="ccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_base_pulldown.port_a.j[2]" />
+    <path
+       d="m 113.513,44.906762 h 4"
+       id="path1722"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_base_wire.port_b.j[2]" />
+    <path
+       d="M 113.513,44.906762 L 113.513,40.906749"
+       id="path1723"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_base_capacitor.port_a.j[2]" />
+    <path
+       d="M 113.513,33.972982 L 113.513,26.972954 L 107.05300000000001,26.972954 L 100.58300000000001,26.972954 L 100.58300000000001,33.950902 L 100.58300000000001,40.928782 L 100.58300000000001,47.906752"
+       id="path1724"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_oscillator_wire.port_a.j[2]" />
+    <path
+       d="m 33.943,25.866254 v 9.240808 9.24043 9.239462 9.2405 h 9.52 9.52 9.52 9.52 9.52 9.52 9.52 v -8"
+       id="path1725"
+       sodipodi:nodetypes="cccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_oscillator_wire.port_b.j[2]" />
+    <path
+       d="m 124.433,44.906732 7,0.01"
+       id="path1726"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_npn.port_b.j[2]" />
+    <path
+       d="m 170.523,57.098154 v -6.70734 l 0.01,-6.707292 v -6.70732"
+       id="path1727"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_anions.port_b.j[1]" />
+    <path
+       d="M 170.523,57.098154 L 164.753,57.098154 L 158.98299999999998,57.098254000000004 L 158.98299999999998,50.098214000000006"
+       id="path1728"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_cations_lower_prism.port_b.j[1]" />
+    <path
+       d="M 170.523,57.098154 L 170.523,58.827454 L 166.523,58.827454"
+       id="path1729"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_bath_lower.port_a.j[1]" />
+    <path
+       d="M 117.513,58.827454 L 125.933,58.827454 L 134.353,58.827454 L 142.773,58.827454 L 151.183,58.827454 L 159.60299999999998,58.827454"
+       id="path392"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_bath_lower.port_b.j[1]" />
+    <path
+       d="m 117.513,58.827454 v -3.095 h 4"
+       id="path1730"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_lower_wire.port_b.j[1]" />
+    <path
+       d="m 128.433,55.732454 h 7.96 v -5.855381"
+       id="path1731"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_npn.port_s.j[1]" />
+    <path
+       d="m 158.983,36.078832 v 7.09871"
+       id="path1732"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_cations_lower_prism.port_a.j[1]" />
+    <path
+       d="M 158.983,29.158252 L 158.983,22.158254"
+       id="path1733"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_cations_bath_upper.port_a.j[1]" />
+    <path
+       d="m 152.393,15.237554 v -4 h 6.59 v 4"
+       id="path1734"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_cations_bath_upper.port_b.j[1]" />
+    <path
+       d="M 152.393,22.158154 L 152.393,29.035852"
+       id="path1735"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_membrane_polyanion.port_a.j[1]" />
+    <path
+       d="m 152.393,42.956462 v -6.99995"
+       id="path1736"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_membrane_polyanion.port_b.j[1]" />
+    <path
+       d="M 152.393,49.877053 L 152.393,56.877053999999994 L 146.893,56.877053999999994 L 141.393,56.877053999999994 L 141.393,49.877072999999996"
+       id="path1737"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_bilayer.port_a.j[1]" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       d="m 136.393,40.956391 5,2.9e-5 v 1.999992"
+       id="path4"
+       flow="actuator_bilayer.port_b.j[1]" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       d="m 136.393,40.956391 v 2.000021"
+       id="path1738"
+       flow="actuator_enrich_npn.port_d.j[1]" />
+    <path
+       d="m 124.433,47.906752 7,0.01005"
+       id="path1739"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_npn.port_b.j[1]" />
+    <path
+       d="m 110.513,47.906752 h 7"
+       id="path1740"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_base_wire.port_b.j[1]" />
+    <path
+       d="M 110.513,47.906752 L 110.513,40.906749"
+       id="path1741"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_base_capacitor.port_a.j[1]" />
+    <path
+       d="m 110.513,33.972982 v -4.00003 h -6.93 v 8.96692 8.96688"
+       id="path1742"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_oscillator_wire.port_a.j[1]" />
+    <path
+       d="M 111.583,58.827454 L 117.513,58.827454"
+       id="path1743"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_lower_wire.port_b.j[1]-oscillator_a_lower_wire.port_b.j[1]-actuator_enrich_base_pulldown.port_b.j[1]" />
+    <path
+       d="m 111.583,58.827454 v -4"
+       id="path1744"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_base_pulldown.port_b.j[1]" />
+    <path
+       d="M 93.833,58.827454 L 102.713,58.827454 L 111.583,58.827454"
+       id="path1745"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_lower_wire.port_b.j[1]-oscillator_a_lower_wire.port_b.j[1]" />
+    <path
+       d="m 93.833,58.827454 v -4"
+       id="path1746"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_lower_wire.port_b.j[1]" />
+    <path
+       d="M 93.833,58.827454 L 84.68299999999999,58.827454 L 75.53299999999999,58.827454 L 66.38299999999998,58.827454 L 57.24299999999998,58.827454 L 48.09299999999998,58.827454 L 38.942999999999984,58.827454 L 38.942999999999984,54.827454"
+       id="path1747"
+       sodipodi:nodetypes="ccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_lower_wire.port_b.j[1]" />
+    <path
+       d="M 136.393,40.956388 L 136.393,35.956382"
+       id="path1748"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_bilayer_transistor_connector.port_b.j[1]" />
+    <path
+       d="M 136.393,29.035752 V 22.035754"
+       id="path1749"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_npn.port_s.j[1]" />
+    <path
+       d="M 128.433,8.115054 L 136.393,8.115054 L 136.393,15.115054"
+       id="path1750"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_npn.port_d.j[1]" />
+    <path
+       d="m 117.513,7.115054 v 1 h 4"
+       id="path1751"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_upper_wire.port_a.j[1]" />
+    <path
+       d="m 117.513,7.115054 h 8.42 8.42 8.41 8.42 8.42"
+       id="path1752"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="source_bath_upper.port_b.j[1]" />
+    <path
+       d="M 93.833,9.985254 L 93.833,13.985154"
+       id="path377"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_upper_wire.port_a.j[1]" />
+    <path
+       d="m 93.833,9.985254 h 5.31 v -2.8702 h 9.19 9.18"
+       id="path1753"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_upper_wire.port_a.j[1]-oscillator_b_pullup.port_a.j[1]-oscillator_a_pullup.port_a.j[1]-oscillator_a_upper_wire.port_a.j[1]" />
+    <path
+       d="m 71.883,9.985254 h 7.32 7.32 7.31"
+       id="path1754"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_upper_wire.port_a.j[1]-oscillator_b_pullup.port_a.j[1]-oscillator_a_pullup.port_a.j[1]" />
+    <path
+       d="M 71.883,9.985254 L 71.883,13.985154"
+       id="path1755"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_pullup.port_a.j[1]" />
+    <path
+       d="m 60.913,9.985254 h 10.97"
+       id="path1756"
+       sodipodi:nodetypes="cc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_upper_wire.port_a.j[1]-oscillator_b_pullup.port_a.j[1]" />
+    <path
+       d="M 60.903,10.151454 L 60.903,14.151454"
+       id="path1757"
+       sodipodi:nodetypes="cc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_pullup.port_a.j[1]" />
+    <path
+       d="m 60.913,9.985254 h -5.34 -8.32 -8.31 v 3.9999"
+       id="path1758"
+       sodipodi:nodetypes="ccccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_upper_wire.port_a.j[1]" />
+    <path
+       d="M 30.943,28.866253 L 30.943,19.425753999999998 L 30.943,9.985253999999998 L 24.163,9.985253999999998 L 24.163,13.985153999999998"
+       id="path1759"
+       sodipodi:nodetypes="cccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_capacitor_a.port_a.j[1]" />
+    <path
+       d="M 30.943,28.866253 L 38.943,28.866253"
+       id="path1760"
+       sodipodi:nodetypes="cc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-sensor_capacitor_a.port_a.j[1]-actuator_enrich_oscillator_wire.port_b.j[1]" />
+    <path
+       d="M 38.943,28.866253 L 38.943,20.905854"
+       id="path1761"
+       sodipodi:nodetypes="cc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_upper_wire.port_b.j[1]" />
+    <path
+       d="M 38.943,28.866253 L 38.943,34.954102"
+       id="path1762"
+       sodipodi:nodetypes="cc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_npn.port_d.j[1]" />
+    <path
+       d="M 38.943,28.866253 L 44.433,28.866253 L 49.933,28.866253"
+       id="path1763"
+       sodipodi:nodetypes="cc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_capacitor.port_b.j[1]" />
+    <path
+       d="M 60.883,28.866253 L 56.863,28.866253"
+       id="path1764"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_capacitor.port_a.j[1]" />
+    <path
+       d="M 60.883,28.866253 L 56.613,22.973354 L 52.343,17.080554 L 48.07300000000001,11.187653999999998 L 48.07300000000001,5.9852539999999985 L 38.093,5.9852539999999985 L 28.123000000000005,5.9852539999999985 L 18.143000000000004,5.9852539999999985 L 8.163000000000004,5.9852539999999985 L 8.163000000000004,13.985253999999998"
+       id="source_anions.port_b.j1"
+       sodipodi:nodetypes="ccccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_capacitor_b.port_a.j[1]" />
+    <path
+       d="M 60.883,28.866253 V 20.905854"
+       id="path1766"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_pullup.port_b.j[1]" />
+    <path
+       d="M 60.883,28.866253 L 64.88300000000001,34.386062 L 68.88300000000001,39.905862 L 75.88300000000001,39.90586"
+       id="path1767"
+       sodipodi:nodetypes="ccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_base_wire.port_b.j[1]" />
+    <path
+       d="M 71.933,28.866253 L 67.72300000000001,34.386042 L 63.51300000000001,39.905860000000004 L 56.88300000000001,39.905857000000005"
+       id="path1768"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_base_wire.port_a.j[1]" />
+    <path
+       d="M 71.933,28.866253 L 75.933,28.866253"
+       id="path1769"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_capacitor.port_b.j[1]" />
+    <path
+       d="m 71.933,28.866253 -0.05,-7.960399"
+       id="path1770"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_pullup.port_b.j[1]" />
+    <path
+       d="m 93.833,47.906752 v -6.03175"
+       id="path1771"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_npn.port_s.j[1]" />
+    <path
+       d="m 93.833,28.866253 h -5.48 -5.49"
+       id="path1772"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_capacitor.port_a.j[1]" />
+    <path
+       d="M 93.833,28.866253 L 93.833,34.954352"
+       id="path1773"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_npn.port_d.j[1]" />
+    <path
+       d="M 93.833,28.866253 V 20.905854"
+       id="path1774"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_upper_wire.port_b.j[1]" />
+    <path
+       d="M 93.833,28.866253 L 98.713,26.470854 L 103.583,24.075454 L 113.513,24.075454 L 113.513,20.075454 L 117.513,20.075454"
+       id="path1775"
+       sodipodi:nodetypes="ccccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_base_wire.port_b.j[1]" />
+    <path
+       d="m 82.803,39.905878 6.07,0.0088"
+       id="path1776"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_npn.port_b.j[1]" />
+    <path
+       d="m 8.163,20.918954 v 6.999999"
+       id="source_anions.port_a.j1"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_b.port_b.j[1]" />
+    <path
+       d="M 24.163,20.918954 L 24.163,27.918953"
+       id="path1778"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_a.port_a.j[1]" />
+    <path
+       d="M 16.163,41.839632 L 24.163,41.839632 L 24.163,34.839632"
+       id="path1779"
+       sodipodi:nodetypes="ccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_a.port_b.j[1]" />
+    <path
+       d="M 16.163,41.839622 L 8.163,41.839632 L 8.163,34.839652"
+       id="path1780"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_b.port_a.j[1]" />
+    <path
+       d="m 16.163,41.839632 v 4.00001"
+       id="path1781"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_world.port_a.j[1]" />
+    <path
+       d="M 16.163,59.760254 L 16.163,52.760254"
+       id="path1782"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_world.port_b.j[1]" />
+    <path
+       d="M 90.833,25.866254 L 90.833,20.905854"
+       id="path1783"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_upper_wire.port_b.j[2]" />
+    <path
+       d="m 90.833,25.866254 h -7.97"
+       id="path1784"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_capacitor.port_a.j[2]" />
+    <path
+       d="M 68.933,25.866254 L 68.88300000000001,20.905854"
+       id="path1785"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_pullup.port_b.j[2]" />
+    <path
+       d="m 68.933,25.866254 h 7"
+       id="path1786"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_capacitor.port_b.j[2]" />
+    <path
+       d="M 68.933,25.866254 L 64.72300000000001,31.386042000000003 L 60.51300000000001,36.905862000000006 L 56.88300000000001,36.905862000000006"
+       id="path1787"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_base_wire.port_a.j[2]" />
+    <path
+       d="m 63.883,25.866254 4,5.519808 4,5.5198 h 4"
+       id="path1788"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_base_wire.port_b.j[2]" />
+    <path
+       d="M 63.883,25.866254 L 56.863,25.866254"
+       id="path1789"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_capacitor.port_a.j[2]" />
+    <path
+       d="M 63.883,25.866254 L 63.883,20.905854"
+       id="path1790"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_pullup.port_b.j[2]" />
+    <path
+       d="M 41.943,25.866254 L 41.943,20.905854"
+       id="path1791"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_upper_wire.port_b.j[2]" />
+    <path
+       d="m 41.943,25.866254 h 7.99"
+       id="path1792"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_capacitor.port_b.j[2]" />
+    <path
+       d="m 41.943,25.866254 v 9.087848"
+       id="path1793"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_npn.port_d.j[2]" />
+    <path
+       d="M 33.943,25.866254 L 41.943,25.866254"
+       id="path1794"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-sensor_capacitor_a.port_a.j[2]-actuator_enrich_oscillator_wire.port_b.j[2]" />
+    <path
+       d="m 33.943,25.866254 v -9.4405 -9.4405 h -6.39 -6.39 v 6.9999"
+       id="path1795"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_capacitor_a.port_a.j[2]" />
+    <path
+       d="m 21.163,20.918954 v 6.999999"
+       id="path1796"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_a.port_a.j[2]" />
+    <path
+       d="M 13.163,38.839632 L 21.163,38.839632 L 21.163,34.839632"
+       id="path1797"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_a.port_b.j[2]" />
+    <path
+       d="m 13.163,38.839621 v 7.000021"
+       id="path1798"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_world.port_a.j[2]" />
+    <path
+       d="M 13.163,38.839632 L 5.163,38.839632 L 5.163,34.839652"
+       id="path1799"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_b.port_a.j[2]" />
+    <path
+       d="m 5.163,20.918954 v 6.999999"
+       id="source_anions.port_a.j2"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_b.port_b.j[2]" />
+    <path
+       d="M 63.883,25.866254 L 59.613,19.973354 L 55.343,14.080554 L 51.07300000000001,8.187653999999998 L 51.07300000000001,2.9852539999999985 L 41.89300000000001,2.9852539999999985 L 32.71300000000001,2.9852539999999985 L 23.53300000000001,2.9852539999999985 L 14.343000000000009,2.9852539999999985 L 5.163000000000009,2.9852539999999985 L 5.163000000000009,8.485253999999998 L 5.163000000000009,13.985153999999998"
+       id="source_anions.port_b.j2"
+       sodipodi:nodetypes="ccccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_capacitor_b.port_a.j[2]" />
+    <path
+       d="M 13.163,59.760254 L 13.163,52.760254"
+       id="path1802"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="sensor_wire_world.port_b.j[2]" />
+    <path
+       d="M 49.963,36.905862 L 43.903,36.914462"
+       id="path1803"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_npn.port_b.j[2]" />
+    <path
+       d="m 82.803,36.905872 6.07,0.0088"
+       id="path1804"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_npn.port_b.j[2]" />
+    <path
+       d="M 90.833,47.906752 L 90.833,41.875001999999995"
+       id="path1805"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_npn.port_s.j[2]" />
+    <path
+       d="m 90.833,25.866254 v 9.088098"
+       id="path1806"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_a_npn.port_d.j[2]" />
+    <path
+       d="M 41.943,47.906752 L 41.943,41.874752"
+       id="path1807"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_npn.port_s.j[1]" />
+    <path
+       d="m 49.963,39.90583 -6.06,0.0086"
+       id="path1808"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="oscillator_b_npn.port_b.j[1]" />
+    <path
+       d="M 124.433,20.075454 L 131.433,20.075354"
+       id="path1809"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_deplete_npn.port_b.j[1]" />
+    <path
+       d="M 111.583,47.906762 L 111.583,48.999543"
+       id="path1810"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_base_pulldown.port_a.j[1]" />
+    <path
+       d="m 90.833,61.827454 h 8.88 8.87"
+       id="path1448"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1401);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="-oscillator_b_lower_wire.port_b.j[2]-oscillator_a_lower_wire.port_b.j[2]" />
+    <path
+       d="m 30.943,28.866253 v 9.240809 9.24043 9.239462 9.2405 h 9.08 9.08 9.08 9.08 9.08 9.08 9.08 9.08 v -5.5 -5.5"
+       id="path1811"
+       sodipodi:nodetypes="cccc"
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:url(#swatch1402);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1);marker-mid:url(#marker1012);marker-end:url(#CapTriangle)"
+       flow="actuator_enrich_oscillator_wire.port_b.j[1]" />
+  </g>
+</svg>

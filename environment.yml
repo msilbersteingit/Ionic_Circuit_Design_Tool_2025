@@ -1,0 +1,35 @@
+name: tepermeister_lumped_modeling_2025
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Interpreter/kernels
+  - python
+  - ipykernel
+  - spyder-kernels
+  # Scientific computing
+  - numpy
+  - pandas
+  - pyarrow
+  - scipy
+  - openpyxl
+  # Visualization
+  - matplotlib
+  - ipympl
+  - bokeh
+  - selenium
+  - selenium-manager
+  - geckodriver
+  - firefox
+  # Utility/io
+  - pytables
+  - pip
+  - pip:
+    - ./Scripts
+    - git+https://github.com/OpenModelica/OMPython.git@master
+    - pandas-bokeh
+
+platforms:
+  - linux-64
+  - osx-64
+  - win-64
