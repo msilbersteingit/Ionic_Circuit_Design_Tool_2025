@@ -1,0 +1,9 @@
+within Ionics;
+
+package Composite
+extends Modelica.Icons.Package;
+
+annotation(
+    Diagram(graphics),
+    Icon(graphics = {Polygon(origin = {-46, -18}, lineColor = {0, 85, 0}, fillColor = {255, 217, 181}, fillPattern = FillPattern.Solid, points = {{0, 35}, {-30, 45}, {-30, -25}, {0, -35}, {0, 35}}), Rectangle(origin = {-14, -18}, lineColor = {0, 85, 0}, fillColor = {255, 217, 181}, fillPattern = FillPattern.Solid, extent = {{-32, 35}, {0, -35}}), Polygon(origin = {0, 17}, lineColor = {0, 85, 0}, fillColor = {255, 217, 181}, fillPattern = FillPattern.Solid, points = {{-14, 0}, {-46, 0}, {-76, 10}, {-44, 10}, {-14, 0}}), Rectangle(origin = {44, -18}, lineColor = {0, 85, 0}, fillColor = {215, 235, 255}, fillPattern = FillPattern.Solid, extent = {{-58, 35}, {0, -35}}), Polygon(origin = {94, 17}, lineColor = {0, 85, 0}, fillColor = {255, 217, 181}, fillPattern = FillPattern.Solid, points = {{-18, 0}, {-50, 0}, {-80, 10}, {-46, 10}, {-18, 0}}), Rectangle(origin = {76, -18}, lineColor = {0, 85, 0}, fillColor = {255, 217, 181}, fillPattern = FillPattern.Solid, extent = {{-32, 35}, {0, -35}}), Rectangle(origin = {44, 35}, lineColor = {0, 85, 0}, fillColor = {215, 235, 255}, fillPattern = FillPattern.Solid, extent = {{-58, 18}, {0, -18}}), Polygon(origin = {-10, 51}, lineColor = {0, 85, 0}, fillColor = {215, 235, 255}, fillPattern = FillPattern.Solid, points = {{-4, -34}, {-34, -24}, {-34, 12}, {-4, 2}, {-4, -34}}), Polygon(origin = {-14, 88}, lineColor = {0, 85, 0}, fillColor = {215, 235, 255}, fillPattern = FillPattern.Solid, points = {{58, -35}, {28, -25}, {-30, -25}, {0, -35}, {58, -35}})}));
+end Composite;

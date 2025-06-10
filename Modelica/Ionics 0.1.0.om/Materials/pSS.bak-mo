@@ -1,0 +1,6 @@
+within Ionics.Materials;
+package pSS
+  extends Ionics.Materials.Aqeous(q_fixed = -4e3*Modelica.Constants.F, annotation_color = category_annotation_color_charge, material_name = "pSS");
+  extends Partial.MaterialCategory.Charge.Polyanion;
+
+end pSS;

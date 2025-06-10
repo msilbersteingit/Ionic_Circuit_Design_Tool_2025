@@ -1,0 +1,8 @@
+within Ionics.Materials;
+package Water
+  extends Materials.Aqeous(q_fixed = 0, annotation_color = category_annotation_color_charge, material_name="Water");
+  extends Partial.MaterialCategory.Charge.Neutral;
+  annotation(
+    Icon);
+
+end Water;
